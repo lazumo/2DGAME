@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mask
+  - floor
+  - cup
+  - enemy
+  - bound
+  - dead
+  - chara
+  - switch
+  - alcohol
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - back
+  - ground
+  - floor
+  - switch
+  - chara
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 2218812773
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 1573324857
+    locked: 0
+  - name: switch
+    uniqueID: 3303324145
+    locked: 0
+  - name: chara
+    uniqueID: 1943822467
+    locked: 0
